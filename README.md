@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Temkum
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning PHP and Javascript.
-- 💞️ I’m looking to collaborate on both open source and freelance projects.
+- 🌱 I’m currently polishing my PHP and Javascript.
+- 💞️ I’m looking to collaborate on both open source, remote and freelance projects.
 - 📫 You can get in touch via email: judekum14@gmail.com
 
 <!---
