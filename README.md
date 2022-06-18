@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Temkum
-- 👀 I’m interested in web development.
-- 🌱 I’m currently polishing my PHP and Javascript.
+- 🌱 I’m currently working on personal mern stack projects.
 - 💞️ I’m looking to collaborate on fulltime, remote and freelance projects.
 - 📫 You can get in touch via email: judekum14@gmail.com
 
