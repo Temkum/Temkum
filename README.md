@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Temkum
-- 🌱 I’m currently working on personal mern stack projects.
+- 🌱 I’m currently working on personal MERN stack projects.
 - 💞️ I’m looking to collaborate on fulltime, remote and freelance projects.
 - 📫 You can get in touch via email: judekum14@gmail.com
 
