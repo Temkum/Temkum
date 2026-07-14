@@ -1,8 +1,6 @@
 # Kum Jude Tem
 
-**Full-Stack Engineer.** 7 years shipping production systems across fintech, SaaS, eCommerce, and AI-powered products.
-
-I own features end to end: system design, database schema, APIs, UI, and deployment. Currently building **[Applyd](https://applydpal.com)**, an AI-powered job application platform I designed and shipped solo that cuts end-to-end application time by ~80-90%.
+**Software Engineer.** 7+ years shipping production systems across fintech, SaaS, eCommerce, and AI-powered products.
 
 ---
 
@@ -26,7 +24,7 @@ I own features end to end: system design, database schema, APIs, UI, and deploym
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Applyd](https://applydpal.com) | AI job application platform with LLM response generation, job scraping pipelines, and a Chrome autofill extension | NestJS, TypeScript, Redis, PostgreSQL, LLM |
+| [Applyd](https://applyd-ai.vercel.app) | AI job application platform with LLM response generation, job scraping pipelines, and a Chrome autofill extension | NestJS, TypeScript, Redis, PostgreSQL, LLM |
 | [AI Resume Analyser](https://github.com/Temkum/ai-resume-analyser) | Parses and scores resumes against job descriptions | TypeScript, AI/LLM |
 | [CRM Campaign Manager](https://github.com/Temkum/crm-campaign-manager) | Multi-tenant popup and banner deployment with rule-based audience targeting and real-time conversion tracking | Laravel, Blade, JS |
 | [Fintech Bankie](https://github.com/Temkum/fintech-bankie) | Financial platform with PCI-compliant payment flows | TypeScript, Node.js |
@@ -45,7 +43,7 @@ Databases    PostgreSQL · MySQL · MongoDB · SQLite · Redis · Supabase · Fi
 AI/LLM       Prompt engineering · RAG patterns · LLM API integration · document pipelines
 DevOps       Docker · GitHub Actions · GCP · Vercel · CI/CD · Sentry
 Auth/Sec     JWT · RBAC · OAuth · PCI compliance · input validation · OWASP practices
-Payments     Plaid · Dwolla
+Payments     Plaid · Dwolla . Stripe . Fapshi . Campay
 ```
 
 ---
